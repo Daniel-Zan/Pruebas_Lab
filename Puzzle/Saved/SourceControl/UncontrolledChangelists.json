@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Intel/Documents/Unreal Projects/Puzzle/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"C:/Users/Intel/Documents/Unreal Projects/Puzzle/Content/BP_Puzzlegate.uasset",
+				"C:/Users/Intel/Documents/Unreal Projects/Puzzle/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/YU/PZI6YQWH6VQV1NPNLUD7WX.uasset",
+				"C:/Users/Intel/Documents/Unreal Projects/Puzzle/Content/BP_PuzzleItem.uasset",
+				"C:/Users/Intel/Documents/Unreal Projects/Puzzle/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/XG/YXKORLKZ14QIRX1IN8MY4R.uasset",
+				"C:/Users/Intel/Documents/Unreal Projects/Puzzle/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/CI/BWM0U7A0D6NOL1Q20UAPX9.uasset",
+				"C:/Users/Intel/Documents/Unreal Projects/Puzzle/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/Q5/ESWVCG0HCP6O8SFZ624KGE.uasset",
+				"C:/Users/Intel/Documents/Unreal Projects/Puzzle/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/T8/XT29AHDSGG6PS65GCG677F.uasset",
+				"C:/Users/Intel/Documents/Unreal Projects/Puzzle/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/CQ/EN3C1BCF91XUPHPVG86K88.uasset",
+				"C:/Users/Intel/Documents/Unreal Projects/Puzzle/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/Intel/Documents/Unreal Projects/Puzzle/Content/StarterContent/Props/SM_Door.uasset"
+			]
+		}
+	]
+}
